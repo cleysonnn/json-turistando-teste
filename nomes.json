@@ -1,7 +1,7 @@
 {
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
-  "usuarios": [
+  "nomes": [
     { "id": "1", "nome": "cleyson", "idade": "20" },
     { "id": "2", "nome": "cleysonh", "idade": "1985" },
     { "id": "3", "nome": "biel", "idade": "1999" },
