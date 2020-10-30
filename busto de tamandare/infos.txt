@@ -1,0 +1,17 @@
+https://pt.wikipedia.org/wiki/Ficheiro:Busto_de_Tamandar%C3%A9.JPG
+
+https://tr.foursquare.com/v/busto-de-tamandar%C3%A9/4cd5ab53122ba143c2cf2da1
+
+-7.103141994366038, -34.82357300942502
+
+{
+    "nome": "Busto de Tamandaré",
+    "endereco": "Avenida Almirante Tamandaré, cabo branco",
+    "cidade" : "João Pessoa - PB , 58045-010",
+    "descricao" : "monumento construído em homenagem ao Almirante Joaquim Marques Lisboa, o Marquês de Tamandaré, patrono da Marinha do Brasil.Localiza-se na divisa entre as praias de Cabo Branco e Tambaú (que aparece ao fundo), no município brasileiro de João Pessoa.É conhecido popularmente como Busto de Tamandaré",
+    "tipo" : "riquezas culturais",
+    "nota": 4.7,
+    "preco": 0,
+    "latitude": -7.103823369460145,
+    "longitude" : -34.8228863639723
+}-34.8228863639723
