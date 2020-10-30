@@ -1,0 +1,16 @@
+A praia do Jacaré é uma área turística brasileira que faz parte do corredor turístico de Cabedelo, município do estado da Paraíba,O espetáculo mais festejado de Jacaré é proporcionado pelo sol.
+
+
+https://pt.wikipedia.org/wiki/Praia_do_Jacar%C3%A9
+
+{
+    "nome": "Praia do Jacaré",
+    "endereco": "R. Pôr do Sol - Lot. Oceania VI",
+    "cidade" : "Cabedelo - PB, 58310-000",
+    "descricao" : "A praia do Jacaré é uma área turística brasileira que faz parte do corredor turístico de Cabedelo, município do estado da Paraíba,O espetáculo mais festejado de Jacaré é proporcionado pelo sol.",
+    "tipo" : "belezas naturais",
+    "nota": 4.7,
+    "preco": 0,
+    "latitude": -7.038835,
+    "longitude" : -34.855511
+}https://www.viajenaviagem.com/2016/11/por-do-sol-praia-jacare/
